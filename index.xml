@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flavius Alecu</title>
-    <link>http://flaviusalecu.com/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Flavius Alecu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Thu, 02 Feb 2017 20:23:41 -0800</lastBuildDate>
-    <atom:link href="http://flaviusalecu.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact</title>
-      <link>http://flaviusalecu.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Thu, 02 Feb 2017 20:23:41 -0800</pubDate>
       
-      <guid>http://flaviusalecu.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;p&gt;firstname [] flaviusalecu com&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://flaviusalecu.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://flaviusalecu.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pubs.flaviusalecu.com/iasm_thesis_alecu.pdf&#34;&gt;Irregular Adaptive Shadow Maps&lt;/a&gt; - 2014&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://flaviusalecu.com/img/iasm.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/iasm.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can never have enough acronyms so I decided to introduce a new one by making up this shadow mapping algorithm for my Master Thesis work. DX11 is used to render a multi-resolution shadow map that adapts based on the scene rendered.&lt;/p&gt;
 
@@ -47,10 +47,10 @@
     
     <item>
       <title>Shorts</title>
-      <link>http://flaviusalecu.com/shorts/</link>
+      <link>/shorts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://flaviusalecu.com/shorts/</guid>
+      <guid>/shorts/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt3675376/&#34;&gt;Heat&lt;/a&gt; - 2014
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -75,10 +75,10 @@
     
     <item>
       <title>Work</title>
-      <link>http://flaviusalecu.com/work/</link>
+      <link>/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://flaviusalecu.com/work/</guid>
+      <guid>/work/</guid>
       <description>&lt;p&gt;Red Dead Redemption 2 - 2017
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
