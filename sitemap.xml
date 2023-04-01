@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/contact/</loc>
     <lastmod>2017-02-02T20:23:41-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shorts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/work/</loc>
   </url>
-  
 </urlset>
